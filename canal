@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1862359910/twitter519x519.PNG" group-title=" CANAIS  ( ON ) ", ON     
+https://r2---sn-gpv7enek.googlevideo.com/videoplayback?expire=1499894971&clen=284568521&requiressl=yes&mime=video%2Fmp4&ratebypass=yes&ipbits=0&itag=18&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ei=W0BmWdM-xsLBBOWStsAN&id=o-AOOFCuKmfBd-ZS-p2niMTAzs3xtvScu6IDDEiF-RCpm1&ms=au&mt=1499873237&mv=m&dur=5919.045&source=youtube&pl=22&key=yt6&lmt=1499742765748174&mm=31&signature=269D221AD449B74C1605DBA8296C2CB244514938.B2BA0A7E593F2044E8C5F2235131E01F1C535C7A&mn=sn-gpv7enek&initcwndbps=370000&gir=yes&ip=138.99.13.141
+
+#EXTINF:-1 tvg-logo="http://www.bonilha.com.br/imagens/imagens/tvteste-big.jpg"group-title=" CANAIS  ( ON ) ", CANAL TESTE
+https://r6---sn-gpv7enek.googlevideo.com/videoplayback?ms=au&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&mt=1499873094&mv=m&mime=video%2Fmp4&id=o-ACuwIbDBTMuLO2Di4Fg7F_O-XRgrMlbwme93CF-D6LyR&pl=22&gir=yes&key=yt6&ip=138.99.13.141&mn=sn-gpv7enek&mm=31&expire=1499894842&ei=2T9mWbCXOI2kwQSq2Z2YBw&keepalive=yes&itag=137&signature=46463613B8D8EC6218912E97AA36A3949C37F19D.6F9E09FE5BB4A229E605A137151FEA0A53CFB2BE&requiressl=yes&source=youtube&initcwndbps=386250&dur=258.524&clen=2706225&ipbits=0&lmt=1497875650931569
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-animal-planet.png"group-title=" CANAIS  ( ON ) ",  Animal Planet
+http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=NRn84YxabsrqeKeLjqSMvA9ovAE2lpka
+
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/ae-a-and-e-logo.jpg"group-title=" CANAIS  ( ON ) ", DISCOVERY World HD
+http://138.197.101.47/discovery_world_hd/0/playlist.m3u8?pxAuth=anAq2u1hBaoRdqVWymU9ODxYuHfqsyK3
+
+
+
+
+
+
