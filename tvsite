@@ -87,7 +87,7 @@ http://104.236.59.219/investigation_discovery_hd/0/playlist.m3u8?pxAuth=OfKDaFTW
 #EXTINF:-1 tvg-logo="http://media.revistasenal.com/wp-content/uploads/2014/07/cablevision-incorpora-lifetime-y-history-2-a-su-grilla-digital.jpg"group-title=" CANAIS  ( ON )",[COLOR cyan][B]  Lifetime [/B][/COLOR]
 http://104.236.59.219/lifetime/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Megapix
+#EXTINF:-1 tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Megapix [/B][/COLOR]
 http://104.236.59.219/megapix_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
 #EXTINF:-1 tvg-logo="https://www.redesat.com.br/uploads/canal_1421442391.png"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Max UP [/B][/COLOR]
@@ -99,7 +99,7 @@ http://104.236.59.219/max_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfR
 #EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Max Prime [/B][/COLOR]
 http://104.236.59.219/max_prime_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Nat Geo [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Nat [/B][/COLOR]
 http://104.236.59.219/nat_geo_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nTK-bIkpqZ8/hqdefault.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] NatGeo Wild  
