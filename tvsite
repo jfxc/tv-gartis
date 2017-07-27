@@ -14,7 +14,7 @@ http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2
 #EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/ae-a-and-e-logo.jpg"group-title=" CANAIS ( ON ) ",[COLOR cyan][B] A&E [/B][/COLOR] [COLOR lime][B] ON [/B][/COLOR]
 http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://1.fwcdn.pl/an/29249/70461.12.jpg"group-title=" CANAIS ( ON ) ",[COLOR cyan][B] AMC [/B][/COLOR] [COLOR lime][B] ON [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://1.fwcdn.pl/an/29249/70461.12.jpg"group-title=" CANAIS ( ON ) ",[COLOR cyan][B] AMC [/B][/COLOR] [COLOR red][B] OFF [/B][/COLOR]
 http://185.181.102.3:8081/live/104/chunks.m3u8?nimblesessionid=259845&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE3IDk6MzQ6MTIgUE0maGFzaF92YWx1ZT1ydGpMNGJ1NGRUQjNnUWw2dlpnOHpBPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790038_Cinemax.png"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Cinemax [/B][/COLOR] [COLOR lime][B] ON [/B][/COLOR]
