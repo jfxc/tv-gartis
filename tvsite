@@ -11,7 +11,7 @@ https://r6---sn-gpv7enek.googlevideo.com/videoplayback?ms=au&sparams=clen%2Cdur%
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-animal-planet.png"group-title=" CANAIS ( ON ) ", [COLOR lime][B] Animal Planet [/B][/COLOR] [COLOR lime][B] ON [/B][/COLOR]
 http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/ae-a-and-e-logo.jpg"group-title=" CANAIS ( ON ) ", A&E [COLOR Beige][B] ON [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/ae-a-and-e-logo.jpg"group-title=" CANAIS ( ON ) ",[COLOR Beige][B] A&E [/B][/COLOR]
 http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 http://104.236.59.219/ae_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
