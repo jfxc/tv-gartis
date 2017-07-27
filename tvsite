@@ -21,7 +21,7 @@ http://104.236.59.219/cinemax_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2Brz
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png"group-title=" CANAIS  ( ON )",[COLOR lime][B] Cartoon Network [/B][/COLOR]
 http://104.236.59.219/cartoon_network_hd/1/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/768px-Comedy_Central_logo.svg.png"group-title=" CANAIS  ( ON ) ",[COLOR red][B] Comedy Central [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/768px-Comedy_Central_logo.svg.png"group-title=" CANAIS  ( ON ) ",[COLOR red][B] q [/B][/COLOR]
 http://104.236.59.219/comedy_central/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e4/Discovery_world_channel.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery World [/B][/COLOR]
