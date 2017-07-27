@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1862359910/twitter519x519.PNG" group-title=" CANAIS  ( ON ) ",[COLOR lime][B] ATUALIZADO 26/07/2017 [/B][/COLOR]  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1862359910/twitter519x519.PNG" group-title=" CANAIS  ( ON ) ",[COLOR lime][B] ATUALIZADO  [/B][/COLOR]  
 https://r2---sn-gpv7enek.googlevideo.com/videoplayback?expire=1499894971&clen=284568521&requiressl=yes&mime=video%2Fmp4&ratebypass=yes&ipbits=0&itag=18&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ei=W0BmWdM-xsLBBOWStsAN&id=o-AOOFCuKmfBd-ZS-p2niMTAzs3xtvScu6IDDEiF-RCpm1&ms=au&mt=1499873237&mv=m&dur=5919.045&source=youtube&pl=22&key=yt6&lmt=1499742765748174&mm=31&signature=269D221AD449B74C1605DBA8296C2CB244514938.B2BA0A7E593F2044E8C5F2235131E01F1C535C7A&mn=sn-gpv7enek&initcwndbps=370000&gir=yes&ip=138.99.13.141
 
 #EXTINF:-1 tvg-logo="http://www.bonilha.com.br/imagens/imagens/tvteste-big.jpg"group-title=" CANAIS  ( ON ) ", CANAL TESTE
@@ -15,34 +15,34 @@ http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2
 http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 http://104.236.59.219/ae_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790038_Cinemax.png"group-title=" CANAIS  ( ON ) ", Cinemax
+#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790038_Cinemax.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Cinemax [/B][/COLOR]
 http://104.236.59.219/cinemax_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png"group-title=" CANAIS  ( ON )", Cartoon Network
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png"group-title=" CANAIS  ( ON )",[COLOR lime][B] Cartoon Network [/B][/COLOR]
 http://104.236.59.219/cartoon_network_hd/1/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/768px-Comedy_Central_logo.svg.png"group-title=" CANAIS  ( ON ) ", Comedy Central
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/768px-Comedy_Central_logo.svg.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Comedy Central
 http://104.236.59.219/comedy_central/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e4/Discovery_world_channel.png"group-title=" CANAIS  ( ON ) ",  Discovery World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e4/Discovery_world_channel.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery World [/B][/COLOR]
 http://104.236.59.219/discovery_world_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://formastudio.mx/wp-content/uploads/2015/05/portada_turbo.jpg"group-title=" CANAIS  ( ON ) ",  Discovery Turbo
+#EXTINF:-1 tvg-logo="http://formastudio.mx/wp-content/uploads/2015/05/portada_turbo.jpg"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery Turbo [/B][/COLOR]
 http://104.236.59.219/discovery_turbo_hd/1/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png"group-title=" CANAIS  ( ON ) ", Discovery Channel
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B]Discovery Channel [/B][/COLOR]
 http://104.236.59.219/discovery_channel_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG"group-title=" CANAIS  ( ON ) ",Discovery Science 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery Science [/B][/COLOR]
 http://104.236.59.219/discovery_science/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://imgqvcdn.azureedge.net/mc//medio/discovery-civilization-68/logo/200/200"group-title=" CANAIS  ( ON ) ", Discovery Civilization
+#EXTINF:-1 tvg-logo="http://imgqvcdn.azureedge.net/mc//medio/discovery-civilization-68/logo/200/200"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery Civilization [/B][/COLOR]
 http://104.236.59.219/discovery_civilization/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/disney-channel.png"group-title=" CANAIS  ( ON )", Disney Channel HD
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/disney-channel.png"group-title=" CANAIS  ( ON )",[COLOR lime][B] Disney Channel HD [/B][/COLOR]
 http://104.236.59.219/disney_channel_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://bravi.tv/wp-content/uploads/2015/11/logo-canal-E-300x169.jpg"group-title=" CANAIS  ( ON ) ", E!
+#EXTINF:-1 tvg-logo="http://bravi.tv/wp-content/uploads/2015/11/logo-canal-E-300x169.jpg"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] E! [/B][/COLOR]
 http://104.236.59.219/e%21/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
 #EXTINF:-1 tvg-logo="https://famososnaweb.com/wp-content/uploads/fox.png"group-title=" CANAIS  ( ON ) ", FOX 
