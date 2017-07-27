@@ -99,10 +99,10 @@ http://104.236.59.219/max_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfR
 #EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Max Prime [/B][/COLOR]
 http://104.236.59.219/max_prime_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Nat [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] NatGeo [/B][/COLOR]
 http://104.236.59.219/nat_geo_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nTK-bIkpqZ8/hqdefault.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] NatGeo Wild  
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nTK-bIkpqZ8/hqdefault.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] NatGeo Wild  [/B][/COLOR]
 http://104.236.59.219/natgeo_wild_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
 #EXTINF:-1 tvg-logo="https://www.spellbrand.com/images/blog/images/nickelodeon-logo-design.jpg"group-title=" CANAIS  ( ON )",[COLOR cyan][B]  Nick [/B][/COLOR]
