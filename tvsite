@@ -8,32 +8,32 @@ https://r1---sn-gpv7eney.googlevideo.com/videoplayback?id=o-AGIUpII1-9nJhDux6m6m
 #EXTINF:-1 tvg-logo="http://www.bonilha.com.br/imagens/imagens/tvteste-big.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] CANAL TESTE [/B][/COLOR]
 https://r6---sn-gpv7enek.googlevideo.com/videoplayback?ms=au&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&mt=1499873094&mv=m&mime=video%2Fmp4&id=o-ACuwIbDBTMuLO2Di4Fg7F_O-XRgrMlbwme93CF-D6LyR&pl=22&gir=yes&key=yt6&ip=138.99.13.141&mn=sn-gpv7enek&mm=31&expire=1499894842&ei=2T9mWbCXOI2kwQSq2Z2YBw&keepalive=yes&itag=137&signature=46463613B8D8EC6218912E97AA36A3949C37F19D.6F9E09FE5BB4A229E605A137151FEA0A53CFB2BE&requiressl=yes&source=youtube&initcwndbps=386250&dur=258.524&clen=2706225&ipbits=0&lmt=1497875650931569
 
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-animal-planet.png"group-title=" CANAIS ( ON ) ", [COLOR lime][B] Animal Planet [/B][/COLOR] [COLOR lime][B] ON [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-animal-planet.png"group-title=" CANAIS ( ON ) ", [COLOR lime][B] Animal Planet [/B][/COLOR] [COLOR cyan][B] ON [/B][/COLOR]
 http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/ae-a-and-e-logo.jpg"group-title=" CANAIS ( ON ) ",[COLOR lime][B] A&E [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/ae-a-and-e-logo.jpg"group-title=" CANAIS ( ON ) ",[COLOR cyan][B] A&E [/B][/COLOR]
 http://104.236.59.219/animal_planet/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 http://104.236.59.219/ae_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790038_Cinemax.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Cinemax [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790038_Cinemax.png"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Cinemax [/B][/COLOR]
 http://104.236.59.219/cinemax_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png"group-title=" CANAIS  ( ON )",[COLOR lime][B] Cartoon Network [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png"group-title=" CANAIS  ( ON )",[COLOR cyan][B] Cartoon Network [/B][/COLOR]
 http://104.236.59.219/cartoon_network_hd/1/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/768px-Comedy_Central_logo.svg.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Comedy Central [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/768px-Comedy_Central_logo.svg.png"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Comedy Central [/B][/COLOR]
 http://104.236.59.219/comedy_central/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e4/Discovery_world_channel.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery World [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e4/Discovery_world_channel.png"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Discovery World [/B][/COLOR]
 http://104.236.59.219/discovery_world_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://formastudio.mx/wp-content/uploads/2015/05/portada_turbo.jpg"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery Turbo [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://formastudio.mx/wp-content/uploads/2015/05/portada_turbo.jpg"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Discovery Turbo [/B][/COLOR]
 http://104.236.59.219/discovery_turbo_hd/1/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png"group-title=" CANAIS  ( ON ) ",[COLOR lime][B]Discovery Channel [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B]Discovery Channel [/B][/COLOR]
 http://104.236.59.219/discovery_channel_hd/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery Science [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG"group-title=" CANAIS  ( ON ) ",[COLOR cyan][B] Discovery Science [/B][/COLOR]
 http://104.236.59.219/discovery_science/0/playlist.m3u8?pxAuth=OfKDaFTWJeuKUPysLtDX2BrzABfRjopU
 
 #EXTINF:-1 tvg-logo="http://imgqvcdn.azureedge.net/mc//medio/discovery-civilization-68/logo/200/200"group-title=" CANAIS  ( ON ) ",[COLOR lime][B] Discovery Civilization [/B][/COLOR]
