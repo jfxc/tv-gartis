@@ -1,10 +1,5 @@
 #EXTM3U
 
-################################################################################# DOCUMENTÁRIOS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]**[/COLOR][COLOR white]**[/COLOR][COLOR white]**[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
-here
-
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1863.ts&amp;name=[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD[/COLOR][/B]
 
@@ -74,11 +69,6 @@ http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1783.ts&amp;name=[B][COLOR white
 #EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tlc.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]TLC[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1717.ts&amp;name=[B][COLOR white]TLC[/COLOR] [COLOR red]SD[/COLOR][/B]
 
-################################################################################# CANAIS ABERTOS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="CANAIS ABERTOS",[B][COLOR white]**[/COLOR][COLOR white]**[/COLOR][COLOR white]**[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
-here
-
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR red]HD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1858.ts&amp;name=[B][COLOR white]BAND[/COLOR] [COLOR red]HD[/COLOR][/B]
 
@@ -132,11 +122,6 @@ http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/2145.ts&amp;name=[B][COLOR white
 
 #EXTINF:-1 tvg-id="VIVA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png" group-title="CANAIS ABERTOS",[B][COLOR white]VIVA[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1705.ts&amp;name=[B][COLOR white]VIVA[/COLOR] [COLOR red]SD[/COLOR][/B]
-
-################################################################################# ESPORTES
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="ESPORTES",[B][COLOR white]**[/COLOR][COLOR white]**[/COLOR][COLOR white]**[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
-here
 
 #EXTINF:-1 tvg-id="ALL SPORTS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/allsports.png" group-title="ESPORTES",[B][COLOR white]ALL SPORTS[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
@@ -245,11 +230,6 @@ http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1760.ts&amp;name=[B][COLOR white
 
 #EXTINF:-1 tvg-id="PREMIERE 9 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 9[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1759.ts&amp;name=[B][COLOR white]PREMIERE 9[/COLOR] [COLOR red]SD[/COLOR][/B]
-
-################################################################################# FILMES &amp; SÉRIES
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="FILMES &amp; SÉRIES",[B][COLOR white]**[/COLOR][COLOR white]**[/COLOR][COLOR white]**[/COLOR] [COLOR white]FILMES &amp; SÉRIES[/COLOR][/B]
-here
 
 #EXTINF:-1 tvg-id="A&amp;E SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png" group-title="FILMES &amp; SÉRIES",[B][COLOR white]A&amp;E[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/2720.ts&amp;name=[B][COLOR white]A&amp;E[/COLOR] [COLOR red]SD[/COLOR][/B]
@@ -434,11 +414,6 @@ http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/2146.ts&amp;name=[B][COLOR white
 #EXTINF:-1 tvg-id="WARNER CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png" group-title="FILMES &amp; SÉRIES",[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1704.ts&amp;name=[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR red]SD[/COLOR][/B]
 
-################################################################################# INFANTIL
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="INFANTIL",[B][COLOR white]**[/COLOR][COLOR white]**[/COLOR][COLOR white]**[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
-here
-
 #EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png" group-title="INFANTIL",[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1847.ts&amp;name=[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR red]SD[/COLOR][/B]
 
@@ -468,11 +443,6 @@ http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1777.ts&amp;name=[B][COLOR white
 
 #EXTINF:-1 tvg-id="TOONCAST SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png" group-title="INFANTIL",[B][COLOR white]TOONCAST[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1713.ts&amp;name=[B][COLOR white]TOONCAST[/COLOR] [COLOR red]SD[/COLOR][/B]
-
-################################################################################# MÚSICAS &amp; VARIEDADES
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="MÚSICAS &amp; VARIEDADES",[B][COLOR white]**[/COLOR][COLOR white]**[/COLOR][COLOR white]**[/COLOR] [COLOR white]MÚSICAS &amp; VARIEDADES[/COLOR][/B]
-here
 
 #EXTINF:-1 tvg-id="1 HD MUSIC HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/1hd.png" group-title="MÚSICAS &amp; VARIEDADES",[B][COLOR white]1 HD MUSIC[/COLOR] [COLOR red]HD[/COLOR][/B]
 http://80.250.191.10:1935/live/livestream1/playlist.m3u8
@@ -538,11 +508,6 @@ http://wow01.105.net/live/virgin1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VH1 MEGAHITS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/vh1.png" group-title="MÚSICAS &amp; VARIEDADES",[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/Jose1/t1pojnaLEm/1706.ts&amp;name=[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR red]SD[/COLOR][/B]
-
-################################################################################# NOTÍCIAS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="NOTÍCIAS",[B][COLOR white]**[/COLOR][COLOR white]**[/COLOR][COLOR white]**[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]
-here
 
 #EXTINF:-1 tvg-id="ACRITICAPLAY HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/acriticaplay.png" group-title="NOTÍCIAS",[B][COLOR white]ACRITICAPLAY[/COLOR] [COLOR red]HD[/COLOR][/B]
 http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8
