@@ -6,7 +6,7 @@
 
 ################################################################################# CANAIS ABERTOS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="CANAIS ABERTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
+#EXTINF:-1 tvg-id="" " group-title="CANAIS ABERTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
 here
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
@@ -65,7 +65,7 @@ http://lista.sv1.tv:25461/live/drade30/3030/1705.ts&name=[B][COLOR white]VIVA[/C
 
 ################################################################################# DOCUMENTÁRIOS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="DOCUMENTÁRIOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
+#EXTINF:-1 tvg-id="" --- " group-title="DOCUMENTÁRIOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
 here
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]
@@ -139,7 +139,7 @@ http://lista.sv1.tv:25461/live/drade30/3030/1717.ts&name=[B][COLOR white]TLC[/CO
 
 ################################################################################# ESPORTES
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="ESPORTES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
+#EXTINF:-1 tvg-id="" ----" group-title="ESPORTES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
 here
 
 #EXTINF:-1 tvg-id="ALL SPORTS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/allsports.png" group-title="ESPORTES",[B][COLOR white]ALL SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]
@@ -252,7 +252,7 @@ http://lista.sv1.tv:25461/live/drade30/3030/1759.ts&name=[B][COLOR white]PREMIER
 
 ################################################################################# FILMES & SÉRIES
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="FILMES & SÉRIES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]
+#EXTINF:-1 tvg-id="" ----" group-title="FILMES & SÉRIES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]
 here
 
 #EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png" group-title="FILMES & SÉRIES",[B][COLOR white]A&E[/COLOR] [COLOR gold]SD[/COLOR][/B]
@@ -440,7 +440,7 @@ http://lista.sv1.tv:25461/live/drade30/3030/1704.ts&name=[B][COLOR white]WARNER 
 
 ################################################################################# INFANTIL
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFANTIL",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
+#EXTINF:-1 tvg-id=""------" group-title="INFANTIL",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
 here
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png" group-title="INFANTIL",[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]
@@ -475,7 +475,7 @@ http://lista.sv1.tv:25461/live/drade30/3030/1713.ts&name=[B][COLOR white]TOONCAS
 
 ################################################################################# MÚSICAS & VARIEDADES
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]
+#EXTINF:-1 tvg-id=""--------" group-title="MÚSICAS & VARIEDADES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]
 here
 
 #EXTINF:-1 tvg-id="1 HD MUSIC HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/1hd.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]1 HD MUSIC[/COLOR] [COLOR gold]HD[/COLOR][/B]
@@ -545,7 +545,7 @@ http://lista.sv1.tv:25461/live/drade30/3030/1706.ts&name=[B][COLOR white]VH1 MEG
 
 ################################################################################# NOTÍCIAS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="NOTÍCIAS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]
+#EXTINF:-1 tvg-id=""---------" group-title="NOTÍCIAS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]
 here
 
 #EXTINF:-1 tvg-id="ACRITICAPLAY HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/acriticaplay.png" group-title="NOTÍCIAS",[B][COLOR white]ACRITICAPLAY[/COLOR] [COLOR gold]HD[/COLOR][/B]
