@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios", TESTE CODIGO 
-https://pastebin.com/raw/re48ydCP
+Url_decoder=base64.decode (https://pastebin.com/raw/re48ydCP)
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/1858.ts&name=[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
