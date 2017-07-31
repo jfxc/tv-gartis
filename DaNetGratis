@@ -1,0 +1,48 @@
+<layouttype>thumbnail</layouttype>
+ 
+<channels>
+ 
+</channels><channel>
+<name> [COLOR beige][B] Addon [/B][/COLOR]  [COLOR blue][B] *Versão- 0 * [/B][/COLOR]   </name>
+<thumbnail>https://github.com/jfxc/tv-gartis/blob/master/logotv.png?raw=true</thumbnail>
+<fanart>https://raw.githubusercontent.com/tvgratisefilmes/IM/14649b141c3b439694c509a6b3dc3f9f736fe0d4/TECH.png</fanart>
+<externallink> --- </externallink>
+<info> INFO </info>
+ 
+ 
+</channels><channel>
+<name>[COLOR Navy blue][B]  TV [/B][/COLOR]  [COLOR blue][B] *Versão- 0 * [/B][/COLOR]</name>
+<thumbnail>https://github.com/jfxc/tv-gartis/blob/master/aquitv1.png?raw=true</thumbnail>
+<externallink>https://raw.githubusercontent.com/jfxc/tv-gartis/master/links</externallink>
+<fanart>http://www.downloadswallpapers.com/wallpapers/2012/julho/linhas-verticais--azul-e-preto-wallpaper-11258.jpg</fanart>
+<info></info>
+</channel>
+ 
+</channels><channel>
+<name>[COLOR gold][B] Desenhos [/B][/COLOR]  [COLOR blue][B] *Versão- 0 * [/B][/COLOR]  </name>
+<thumbnail>https://github.com/jfxc/tv-gartis/blob/master/desenhos.png?raw=true</thumbnail>
+<fanart>https://raw.githubusercontent.com/tvgratisefilmes/IM/14649b141c3b439694c509a6b3dc3f9f736fe0d4/TECH.png</fanart>
+<externallink>https://raw.githubusercontent.com/jfxc/tv-gartis/master/dezenho</externallink>
+<info> Desenhos </info>
+ 
+<channel>
+<name>[COLOR gold][B]  FILMES 2017 [/B][/COLOR]  [COLOR blue][B]  *Versão- 0 * [/B][/COLOR]  </name>
+<thumbnail>https://github.com/jfxc/tv-gartis/blob/master/filmes.PNG?raw=true</thumbnail>
+<externallink>https://pastebin.com/raw/hBXS5hMm</externallink>
+<fanart>http://sensing.konicaminolta.com.br/images/blogImages/50_shadesofblack.png</fanart>
+</channel>
+ 
+ 
+<channel>
+<name> [COLOR gold][B] Filmes Plus [/B][/COLOR]  [COLOR blue][B] *Versão- 0 * [/B][/COLOR] </name>
+<thumbnail>https://github.com/jfxc/tv-gartis/blob/master/filmes%20plus.PNG?raw=true</thumbnail>
+<externallink>https://goo.gl/2BHZQr</externallink>
+<fanart>http://sensing.konicaminolta.com.br/images/blogImages/50_shadesofblack.png</fanart>
+</channel>
+ 
+<channel>
+<name>[COLOR gold][B]   Series [/B][/COLOR]  [COLOR blue][B] *Versão- 0 * [/B][/COLOR] </name>
+<thumbnail>https://github.com/jfxc/tv-gartis/blob/master/series.PNG?raw=true</thumbnail>
+<externallink>https://pastebin.com/raw/TeHGvVBh</externallink>
+<fanart>http://sensing.konicaminolta.com.br/images/blogImages/50_shadesofblack.png</fanart>
+</channel
