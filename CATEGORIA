@@ -8,18 +8,11 @@
 <fanart>https://raw.githubusercontent.com/tvgratisefilmes/IM/14649b141c3b439694c509a6b3dc3f9f736fe0d4/TECH.png</fanart>
 <externallink>https://raw.githubusercontent.com/jfxc/tv-gartis/master/danet</externallink>
 <info> INFO </info>
- 
-</channels><channel>
-<name>[COLOR gold][B]  TV   *Versão- Beta*[/B][/COLOR]   </name>
-<thumbnail>http://icons.iconarchive.com/icons/iconlicious/misc/512/Tv-icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tvgratisefilmes/IM/14649b141c3b439694c509a6b3dc3f9f736fe0d4/TECH.png</fanart>
-<externallink>https://pastebin.com/raw/tXwJa2kH</externallink>
-<info> TV LISTA PAGA ON </info>
- 
+  
 </channels><channel>
 <name>[COLOR gold][B] TV  *Versão-0.1* [/B][/COLOR]  </name>
 <thumbnail>http://3.bp.blogspot.com/-DJhqzu20_HY/UMLch5JjeQI/AAAAAAAAA1s/pagXgPRZK0E/s1600/Tv-Online-Logo.png</thumbnail>
-<externallink>https://pastebin.com/raw/mjBK6nzD</externallink>
+<externallink>https://raw.githubusercontent.com/jfxc/tv-gartis/master/links</externallink>
 <fanart>http://www.downloadswallpapers.com/wallpapers/2012/julho/linhas-verticais--azul-e-preto-wallpaper-11258.jpg</fanart>
 <info></info>
 </channel>
@@ -29,7 +22,7 @@
 <thumbnail>https://www.shareicon.net/data/2016/04/13/492005_3_256x256.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/tvgratisefilmes/IM/14649b141c3b439694c509a6b3dc3f9f736fe0d4/TECH.png</fanart>
 <externallink>https://raw.githubusercontent.com/jfxc/tv-gartis/master/tvsite</externallink>
-<info> TV DE SITES TESTE </info>
+<info> TV DE SITES </info>
  
 </channels><channel>
 <name>[COLOR gold][B] Desenhos  *Versão- Beta* [/B][/COLOR]  </name>
@@ -41,7 +34,7 @@
 <channel>
 <name>FILMES 2017 *Versão-0.1* </name>
 <thumbnail>http://images.comunidades.net/tim/timedownloands/filmes.png</thumbnail>
-<externallink>https://pastebin.com/raw/hBXS5hMm</externallink>
+<externallink>https://raw.githubusercontent.com/jfxc/tv-gartis/master/FILMES</externallink>
 <fanart>http://sensing.konicaminolta.com.br/images/blogImages/50_shadesofblack.png</fanart>
 </channel>
  
@@ -56,6 +49,6 @@
 <channel>
 <name> Series   *Versão-0.1* </name>
 <thumbnail>http://3.bp.blogspot.com/-s1CpaL41ui4/UpxS97w28fI/AAAAAAAAQ7Q/EbP6jFwGSyQ/s1600/unnamed+(5).png</thumbnail>
-<externallink>https://pastebin.com/raw/TeHGvVBh</externallink>
+<externallink>https://raw.githubusercontent.com/jfxc/tv-gartis/master/SERIES</externallink>
 <fanart>http://sensing.konicaminolta.com.br/images/blogImages/50_shadesofblack.png</fanart>
 </channel>
