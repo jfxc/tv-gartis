@@ -55,9 +55,6 @@ http://lista.sv1.tv:25461/live/drade30/3030/2145.ts&amp;name=[B][COLOR white]VIV
 #EXTINF:-1 tvg-id="VIVA SD" tvg-logo="master/logos/viva.png" group-title="CANAIS ABERTOS",[B][COLOR white]VIVA[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/1705.ts&amp;name=[B][COLOR white]VIVA[/COLOR] [COLOR red]SD[/COLOR][/B]
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="DOCUMENTÁRIOS",[B][COLOR gold]**[/COLOR][COLOR white]**[/COLOR][COLOR gold]**[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
-here
-
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="master/logos/animal_planet.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/1863.ts&amp;name=[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD[/COLOR][/B]
 
@@ -126,9 +123,6 @@ http://lista.sv1.tv:25461/live/drade30/3030/1783.ts&amp;name=[B][COLOR white]NAT
 
 #EXTINF:-1 tvg-id="TLC SD" tvg-logo="master/logos/tlc.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]TLC[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/1717.ts&amp;name=[B][COLOR white]TLC[/COLOR] [COLOR red]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="ESPORTES",[B][COLOR gold]**[/COLOR][COLOR white]**[/COLOR][COLOR gold]**[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
-here
 
 #EXTINF:-1 tvg-id="ALL SPORTS SD" tvg-logo="master/logos/allsports.png" group-title="ESPORTES",[B][COLOR white]ALL SPORTS[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
@@ -237,9 +231,6 @@ http://lista.sv1.tv:25461/live/drade30/3030/1760.ts&amp;name=[B][COLOR white]PRE
 
 #EXTINF:-1 tvg-id="PREMIERE 9 SD" tvg-logo="master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 9[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/1759.ts&amp;name=[B][COLOR white]PREMIERE 9[/COLOR] [COLOR red]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="FILMES &amp; SÉRIES",[B][COLOR gold]**[/COLOR][COLOR white]**[/COLOR][COLOR gold]**[/COLOR] [COLOR white]FILMES &amp; SÉRIES[/COLOR][/B]
-here
 
 #EXTINF:-1 tvg-id="A&amp;E SD" tvg-logo="master/logos/ae.png" group-title="FILMES &amp; SÉRIES",[B][COLOR white]A&amp;E[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/2720.ts&amp;name=[B][COLOR white]A&amp;E[/COLOR] [COLOR red]SD[/COLOR][/B]
@@ -454,9 +445,6 @@ http://lista.sv1.tv:25461/live/drade30/3030/1777.ts&amp;name=[B][COLOR white]NIC
 #EXTINF:-1 tvg-id="TOONCAST SD" tvg-logo="master/logos/tooncast.png" group-title="INFANTIL",[B][COLOR white]TOONCAST[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/1713.ts&amp;name=[B][COLOR white]TOONCAST[/COLOR] [COLOR red]SD[/COLOR][/B]
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="MÚSICAS &amp; VARIEDADES",[B][COLOR gold]**[/COLOR][COLOR white]**[/COLOR][COLOR gold]**[/COLOR] [COLOR white]MÚSICAS &amp; VARIEDADES[/COLOR][/B]
-here
-
 #EXTINF:-1 tvg-id="1 HD MUSIC HD" tvg-logo="master/logos/1hd.png" group-title="MÚSICAS &amp; VARIEDADES",[B][COLOR white]1 HD MUSIC[/COLOR] [COLOR red]HD[/COLOR][/B]
 http://80.250.191.10:1935/live/livestream1/playlist.m3u8
 
@@ -521,10 +509,6 @@ http://wow01.105.net/live/virgin1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VH1 MEGAHITS SD" tvg-logo="master/logos/vh1.png" group-title="MÚSICAS &amp; VARIEDADES",[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR red]SD[/COLOR][/B]
 http://lista.sv1.tv:25461/live/drade30/3030/1706.ts&amp;name=[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR red]SD[/COLOR][/B]
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xu8VJXX.png" group-title="NOTÍCIAS",[B][COLOR gold]**[/COLOR][COLOR white]**[/COLOR][COLOR gold]**[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]
-here
 
 #EXTINF:-1 tvg-id="ACRITICAPLAY HD" tvg-logo="master/logos/acriticaplay.png" group-title="NOTÍCIAS",[B][COLOR white]ACRITICAPLAY[/COLOR] [COLOR red]HD[/COLOR][/B]
 http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8
