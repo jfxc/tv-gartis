@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="CANAIS ABERTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
 here
 
-#EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id=" Aqui Tv" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://switch02.golffan.us/036/myStream/playlist.m3u8?FORMIGAtv.ts&name=[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="BAND SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]
